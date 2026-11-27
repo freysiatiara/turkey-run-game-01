@@ -1,10 +1,8 @@
 # Gobble Run — A Turkey Escape Game
 
-https://make.fun/bounty/turkey-run-game-01
-
-https://make.fun/badge/turkey-run-game-01.svg
-https://make.fun/badge/turkey-run-game-01/freysiatiara/turkey-run-game-01/rank.svg
-https://make.fun/badge/turkey-run-game-01/freysiatiara/turkey-run-game-01/reward.svg
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/freysiatiara/turkey-run-game-01/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/freysiatiara/turkey-run-game-01/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
 
 Thanksgiving is coming — and YOU are the dinner. Run a turkey from the
 farmyard, through the barn, to the kitchen door 1400 m away, while the farmer
